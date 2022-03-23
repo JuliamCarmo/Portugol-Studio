@@ -11,7 +11,7 @@ programa
 		escreva("Digite o mês em que o pagamento esta sendo efetivado: ")
 		leia(mes)
 
-		resultado = valor * (1 + mat.potencia(0.5, mes))
+		resultado = valor * mat.potencia(1.05, mes)
 		escreva("O valor a ser pago será de: ",resultado)
 			
 	}
@@ -21,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 354; 
+ * @POSICAO-CURSOR = 289; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
