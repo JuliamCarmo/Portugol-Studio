@@ -19,29 +19,26 @@ programa
 	leia(cod)
 
 	escolha(cod){
-		caso 1: 
-		cod = 100
-		escreva("Valor 1.20")
+		caso 100: 
+			escreva("Valor 1.20")
 		pare
-		caso 2: 
-		cod = 101
-		escreva("Valor 1.30")
-		caso 3:
-		cod = 102
-		escreva("Valor 1.50")
+		caso 101: 
+			escreva("Valor 1.30")
 		pare
-		caso 4: 
-		cod = 103
-		escreva("Valor 1.20")
+		caso 102:
+			escreva("Valor 1.50")
 		pare
-		caso 5: 
-		cod = 104
-		escreva("Valor 1.30")
+		caso 103:
+			escreva("Valor 1.20")
 		pare
-		caso 6: 
-		cod = 105
-		escreva("Valor 1.00")
+		caso 104:
+			escreva("Valor 1.30")
 		pare
+		caso 105: 
+			escreva("Valor 1.00")
+		pare
+		caso contrario:
+			escreva("Código INVÁLIDO!")	
 	}
 	
 	}
@@ -51,7 +48,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 115; 
+ * @POSICAO-CURSOR = 659; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
