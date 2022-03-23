@@ -22,7 +22,7 @@ programa
 		caso 100: 
 			escreva("Valor 1.20")
 		pare
-		caso 101: 
+		caso 101:
 			escreva("Valor 1.30")
 		pare
 		caso 102:
@@ -48,7 +48,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 659; 
+ * @POSICAO-CURSOR = 834; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
